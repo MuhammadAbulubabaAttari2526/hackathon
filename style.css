@@ -47,3 +47,75 @@
     margin-top: 10%;
 
  }
+ .sec-4-card-1{
+   width: 293px;
+   height: 293px;
+   background: rgba(249, 230, 208, 1);
+   margin-left: 20%;
+
+ }
+ .sec-4-card-2{
+   width: 293px;
+   height: 293px;
+   background-color:rgba(0, 55, 62, 1);
+   color:white;
+   margin-left: 5%;
+ }
+ .sec-4{
+   width: 1416px;
+   height: 327px;
+   margin-top: 10%;
+ }
+ .logos{
+   margin-top: 10%;
+    background: rgba(249, 230, 208, 1);;
+ }
+ .c1{
+   width: 387px;
+   height: 404px;
+   margin-bottom: 5%;
+   padding: 5%;
+   margin-top: 10%;
+ }
+ .c2{
+   width: 387px;
+   height: 404px;
+   margin-bottom: 5%;
+   padding: 5%;
+   margin-top: 10%;
+ }
+ .c3{
+   width: 387px;
+   height: 404px;
+   margin-bottom: 5%;
+   padding: 5%;
+   margin-top: 10%;
+ }
+ .plus{
+   width: 520px;
+   height: 70px;
+   margin-bottom: 2%;
+ }
+ .pluses{
+   margin-top: 30%;
+ }
+ .all{
+   margin-top: 10%;
+
+ }
+ .login{
+   margin-top: 10%;
+ }
+ /* ul li{
+   list-style-type: none;
+   font-size: 22px;
+ }
+ .last{
+   margin-top:10% ;
+ }
+  .last-1{
+   width: 570px;
+   height: 460px;
+   padding: 5%;
+  
+ } */
