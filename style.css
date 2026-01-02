@@ -2,14 +2,17 @@
  body{
     font-family: "Bricolage Grotesque", sans-serif;
  }
- .nav-link {
+ .card-section{
+  margin-top: 10%;
+ }
+  .nav-link {
     color: black;
  }
  .image1{
-    margin-left: -2rem;
+    margin-left: -0.5rem;
  }
  .image2{
-    margin-right: -2rem;
+    margin-right: -7rem;/
  }
  .image3{
     max-width: 550px;
@@ -51,7 +54,7 @@
    width: 293px;
    height: 293px;
    background: rgba(249, 230, 208, 1);
-   margin-left: 20%;
+  
 
  }
  .sec-4-card-2{
@@ -62,7 +65,7 @@
    margin-left: 5%;
  }
  .sec-4{
-   width: 1416px;
+   /* width: 1416px; */
    height: 327px;
    margin-top: 10%;
  }
@@ -106,9 +109,10 @@
  .login{
    margin-top: 10%;
  }
- /* ul li{
+ ul li{
    list-style-type: none;
    font-size: 22px;
+   margin-bottom: 10px;
  }
  .last{
    margin-top:10% ;
@@ -117,5 +121,11 @@
    width: 570px;
    height: 460px;
    padding: 5%;
+  background-color: white;
+ }
+  .last-2{
+   width: 570px;
+   height: 460px;
+   padding: 10%;
   
- } */
+ }
